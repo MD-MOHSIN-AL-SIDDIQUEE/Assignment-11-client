@@ -1,0 +1,12 @@
+.work-container{
+   
+    height: 700px;
+    background: #111430;
+    margin-bottom: 100px;
+}
+.carosol img{
+    height: 400px;
+    width:400px;
+    margin:20px;
+    padding:40px;
+}

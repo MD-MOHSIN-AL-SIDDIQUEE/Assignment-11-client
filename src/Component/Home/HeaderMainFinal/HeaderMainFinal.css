@@ -1,0 +1,7 @@
+.HomeFirstPart{
+    background:#FBD062;
+    height:100vh;
+    -webkit-mask:
+    radial-gradient(var(--r1,150%) var(--r2,120%) at top   ,white 79.5%,transparent 10%) top right;
+ 
+}
